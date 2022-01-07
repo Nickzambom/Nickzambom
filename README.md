@@ -20,9 +20,10 @@
         <img width="8%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
         <img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
         <img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-        <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
-        <img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
-        <img width="9%"  src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg">
+        <img width="9%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
+        <img width="10%"  src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg">
+        <img width="11%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
+        <img width="10%"  src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">
       </div>
     </div> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickzambom&show_icons=true&locale=en" alt="Nicholas Luiz Zambom"/>
