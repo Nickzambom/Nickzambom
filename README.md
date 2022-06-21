@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>
 <p>Meu nome é Nicholas Luiz Zambom, tenho 20 anos.</p>
-  <p>Estudante de Análise de desenvolvimento de sistemas.</p>
+  <p>Estudante de Análise de desenvolvimento de sistemas, atualmente me aprofundando nos estudos da linguagem JAVA.</p>
 </b>
 <p>Em busca sempre do conhecimento. Parar não é o objetivo.</p>
 
