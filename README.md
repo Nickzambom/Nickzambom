@@ -23,7 +23,7 @@
         <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
         <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
         <img width="5%"  src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg">
-        <img width="7" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
+        <img width="69" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
         <img width="7%"  src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">
       </div>
     </div> 
