@@ -27,7 +27,4 @@
         <img width="7%"  src="https://github.com/cncf/landscape/blob/master/hosted_logos/microsoft-sql-server.svg">
       </div>
         <div>
-    <h3>Commits<h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nickzambom&show_icons=true&locale=en" alt="Nicholas Luiz Zambom"/>
-<img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickzambom&layout=compact" alt="https://github.com/Nickzambom">
-        </div>
+
