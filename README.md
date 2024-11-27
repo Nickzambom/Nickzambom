@@ -1,7 +1,7 @@
 ### Hi there 👋
 <b>
-<p>Meu nome é Nicholas Luiz Zambom, tenho 22 anos.</p>
-  <p>Estudante de Sistemas de informaçãos, graduado em Análise de desenvolvimento de sistemas, atualmente me aprofundando nos estudos da linguagem JAVA + Selenium.</p>
+<p>Meu nome é Nicholas Luiz Zambom, tenho 23 anos.</p>
+  <p>QA | Estudante de Sistemas de informaçãos, graduado em Análise de desenvolvimento de sistemas, atualmente me aprofundando nos estudos da linguagem JAVA + Selenium.</p>
 </b>
 <p>Em busca sempre do conhecimento. Parar não é o objetivo.</p>
 
